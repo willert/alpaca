@@ -16,3 +16,6 @@ notes.md
 dist/
 
 customers/
+
+perl5/perl5/
+/perl5/mist-run

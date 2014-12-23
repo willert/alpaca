@@ -1,0 +1,4 @@
+requires 'Moose';
+requires 'Module::Find';
+requires 'Types::Standard';
+requires 'Safe::Isa';
